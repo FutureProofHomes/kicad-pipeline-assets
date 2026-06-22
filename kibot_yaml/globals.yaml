@@ -22,7 +22,7 @@ global:
     # Invalid column name
     - number: 62
     # 3D models downloaded or cached
-    - number: 98
+    # - number: 98
     # 'Avoid adding extra information in the component value, use separated fields'
     - number: 133
     # 'This output depends on KiCad version, use blender_export instead'
