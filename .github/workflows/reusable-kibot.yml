@@ -58,13 +58,14 @@ jobs:
         with:
           token: ${{ secrets.ORG_WIDE_READ_TOKEN }}
           ref: ${{ github.ref }}
-      - name: Checkout submodules
-        uses: actions/checkout@v4
-        with:
-          repository: FutureProofHomes/Kicad-Libraries
-          token: ${{ secrets.ORG_WIDE_READ_TOKEN }}
-          path: Kicad-Libraries
           persist-credentials: true
+      # - name: Checkout submodules
+      #   uses: actions/checkout@v4
+      #   with:
+      #     repository: FutureProofHomes/Kicad-Libraries
+      #     token: ${{ secrets.ORG_WIDE_READ_TOKEN }}
+      #     path: Kicad-Libraries
+      #     persist-credentials: true
 
       - name: Pull latest changes
         run: |
