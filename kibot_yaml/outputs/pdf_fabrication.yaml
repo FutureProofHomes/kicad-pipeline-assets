@@ -13,7 +13,7 @@ outputs:
   options:
     colored_pads: false
     colored_vias: false
-    color_theme: '@COLOR_THEME@'
+    # color_theme: '@COLOR_THEME@'
     output: '%f-fabrication%I%v.%x'
     format: 'PDF'
     title: '@DOC_TITLE@ Document'
