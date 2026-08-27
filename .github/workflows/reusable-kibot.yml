@@ -97,7 +97,7 @@ jobs:
         with:
           fetch-depth: 0
           submodules: recursive
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.token }}
 
       # Run these changelog update steps only on tag pushes
       - name: Pull latest changes for changelog update
