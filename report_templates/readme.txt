@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img alt="Logo" width="33%" src="kicad-pipeline-assets/logos/dummy_logo.svg">
+  <img alt="Logo" width="33%" src="kicad-pipeline-assets/logos/logo.svg">
 </p>
 
 <h1 align="center">${BOARD_NAME}</h1>
