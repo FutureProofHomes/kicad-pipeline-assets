@@ -16,18 +16,18 @@ outputs:
       - _value_split
       - @FILT_PRE_TRANSFORM@
     count_smd_tht: true
-    distributors:
-        - Mouser
-        - Digi-Key
-        - TME
+    # distributors:
+        # - Mouser
+        # - Digi-Key
+        # - TME
         # - Arrow
         # - Farnell
     xlsx:
       title: 'Bill of Materials'
       datasheet_as_link: 'Datasheet'
-      logo: false
+      logo: true
       style: modern-blue
-      kicost: true
+      kicost: false
       kicost_config: '@KICOST_CONFIG@'
       specs: true
 
@@ -55,7 +55,7 @@ outputs:
 ...
 definitions:
   NAME: xlsx_costs_bom
-  COMMENT: Costs Bill of Materials in XLSX format
+  COMMENT: Bill of Materials in XLSX format
   DIR: Manufacturing/Assembly
   KICOST_CONFIG: ''
   FILT_PRE_TRANSFORM: field_rename
