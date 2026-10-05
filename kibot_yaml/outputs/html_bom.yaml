@@ -19,7 +19,7 @@ outputs:
       logo: false
       style: modern-blue
 
-    group_fields: ['@MPN_FIELD@', 'Value']
+    group_fields: ['@MPN_FIELD@', 'Value', 'Footprint', 'LCSC']
 
     columns:
       - "Row"
@@ -32,6 +32,7 @@ outputs:
       - "@MAN_FIELD@"
       - "@MPN_FIELD@"
       - "Supplier Part Number"
+      - "LCSC"
       # - "arrow#"
       # - "digikey#"
       # - "farnell#"

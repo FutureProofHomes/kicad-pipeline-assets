@@ -31,6 +31,8 @@ outputs:
       kicost_config: '@KICOST_CONFIG@'
       specs: true
 
+    group_fields: ['@MPN_FIELD@', 'Value', 'Footprint', 'LCSC']
+    
     columns:
       - "Row"
       - "Quantity Per PCB"
@@ -42,6 +44,7 @@ outputs:
       - "manf"
       - "manf#"
       - "Supplier Part Number"
+      - "LCSC"
       # - "arrow#"
       # - "digikey#"
       # - "farnell#"
