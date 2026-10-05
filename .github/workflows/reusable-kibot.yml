@@ -185,7 +185,7 @@ jobs:
         if: env.kibot_variant != 'DRAFT'
         uses: jenseng/dynamic-uses@v1
         with:
-          uses: INTI-CMNB/KiBot@v2_dk${{ env.kicad_version }}
+          uses: INTI-CMNB/KiBot@v2_k${{ env.kicad_version }}
           with: '{ "skip": "all", "variant": "${{ env.kibot_variant }}", "config": "${{ env.kibot_config }}", "additional_args": "--log kibot_run_notes.log notes" }'
 
       # Generate README only (only for DRAFT variant)
@@ -193,14 +193,14 @@ jobs:
         if: env.kibot_variant == 'DRAFT'
         uses: jenseng/dynamic-uses@v1
         with:
-          uses: INTI-CMNB/KiBot@v2_dk${{ env.kicad_version }}
+          uses: INTI-CMNB/KiBot@v2_k${{ env.kicad_version }}
           with: '{ "skip": "draw_fancy_stackup,set_text_variables,erc,drc", "variant": "${{ env.kibot_variant }}", "config": "${{ env.kibot_config }}", "additional_args": "--log kibot_run_readme.log md_readme" }'
 
       # Generate outputs
       - name: Generate notes (KiCad ${{ env.kicad_version }})
         uses: jenseng/dynamic-uses@v1
         with:
-          uses: INTI-CMNB/KiBot@v2_dk${{ env.kicad_version }}
+          uses: INTI-CMNB/KiBot@v2_k${{ env.kicad_version }}
           with: '{ "variant": "${{ env.kibot_variant }}", "config": "${{ env.kibot_config }}", "additional_args": "${{ env.additional_args }}", "cache3D": "YES" }'
 
       - name: Pull latest changes
