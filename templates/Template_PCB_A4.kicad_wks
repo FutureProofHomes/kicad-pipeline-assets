@@ -89,7 +89,7 @@
 		(name "")
 		(pos 25.6 6.0002)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(size 2.5 2.5) bold
 			(color 0 0 127 1)
 		)
@@ -99,7 +99,7 @@
 		(name "")
 		(pos 25.989 10.5022)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -108,7 +108,7 @@
 		(name "")
 		(pos 17.489 5.5022)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -117,7 +117,7 @@
 		(name "")
 		(pos 14 6)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(size 2.5 2.5) bold
 			(color 0 0 127 1)
 		)
@@ -127,7 +127,7 @@
 		(name "")
 		(pos 41.989 10.502)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -136,7 +136,7 @@
 		(name "")
 		(pos 40.989 6.0022)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(size 2.5 2.5) bold
 			(color 0 0 127 1)
 		)
@@ -171,7 +171,7 @@
 		(name "")
 		(pos 17.989 21.002)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -180,7 +180,7 @@
 		(name "")
 		(pos 17.989 16.502)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -194,7 +194,7 @@
 		(name "")
 		(pos 41.989 21.002)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -213,7 +213,7 @@
 		(name "")
 		(pos 41.989 31.502)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -222,7 +222,7 @@
 		(name "")
 		(pos 41.989 16.502)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -231,7 +231,7 @@
 		(name "")
 		(pos 68.9892 10.5022)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -240,7 +240,7 @@
 		(name "")
 		(pos 68.9892 6.0022)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -259,7 +259,7 @@
 		(name "")
 		(pos 68.9892 21.0022)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -278,7 +278,7 @@
 		(name "")
 		(pos 68.9892 16.5022)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -302,7 +302,7 @@
 		(name "")
 		(pos 110.989 16.502)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -321,7 +321,7 @@
 		(name "")
 		(pos 110.989 31.502)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -330,7 +330,7 @@
 		(name "")
 		(pos 41.989 42.0022)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -349,7 +349,7 @@
 		(name "")
 		(pos 41.989 37.502)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -368,7 +368,7 @@
 		(name "")
 		(pos 110.989 42.002)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -377,7 +377,7 @@
 		(name "")
 		(pos 110.989 37.502)
 		(font
-			(face "Times New Roman") bold
+			(face "Liberation Serif") bold
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -386,7 +386,7 @@
 		(name "")
 		(pos 41.489 27.002)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(size 2.5 2.5) bold
 			(color 0 0 127 1)
 		)
@@ -396,7 +396,7 @@
 		(name "")
 		(pos 110.489 27.002)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(size 2.5 2.5) bold
 			(color 0 0 127 1)
 		)
@@ -426,7 +426,7 @@
 		(name "")
 		(pos 110.989 21.002)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -435,7 +435,7 @@
 		(name "")
 		(pos 145.489 21.0022)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -444,7 +444,7 @@
 		(name "")
 		(pos 145.489 6.002)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -453,7 +453,7 @@
 		(name "")
 		(pos 145.489 10.502)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -462,7 +462,7 @@
 		(name "")
 		(pos 145.489 16.502)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -481,7 +481,7 @@
 		(name "")
 		(pos 145.489 42.002)
 		(font
-			(face "LiberationSans")
+			(face "Liberation Sans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -490,7 +490,7 @@
 		(name "")
 		(pos 145.489 37.502)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -499,7 +499,7 @@
 		(name "")
 		(pos 145.489 34.002)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -508,7 +508,7 @@
 		(name "")
 		(pos 145.489 30.502)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -517,7 +517,7 @@
 		(name "")
 		(pos 145.489 27.002)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(color 0 0 127 1)
 		)
 		(comment "Sheet id")
@@ -541,14 +541,14 @@
 		(name "")
 		(pos 269.989 180.502)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(size 4 4) bold)
 	)
 	(tbtext "${LAYER}"
 		(name "")
 		(pos 138.6322 159.1072)
 		(font
-			(face "Times New Roman")
+			(face "Liberation Serif")
 			(size 3.226 3.226) bold
 			(color 0 0 0 1)
 		)
