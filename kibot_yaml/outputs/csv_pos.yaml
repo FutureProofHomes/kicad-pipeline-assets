@@ -16,6 +16,19 @@ outputs:
     include_virtual: false
     output: '%f-CPL%I%v.%x'
     separate_files_for_front_and_back: false
+    columns:
+      - id: Ref
+        name: Designator
+      - Val
+      - Package
+      - id: PosX
+        name: "Mid X"
+      - id: PosY
+        name: "Mid Y"
+      - id: Rot
+        name: Rotation
+      - id: Side
+        name: Layer
 
 definitions:
   NAME: csv_position
