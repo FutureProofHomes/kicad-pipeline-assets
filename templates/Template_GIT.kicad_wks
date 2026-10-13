@@ -99,7 +99,7 @@
 		(name "")
 		(pos 25.989 10.5022)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -108,7 +108,7 @@
 		(name "")
 		(pos 17.489 5.5022)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -127,7 +127,7 @@
 		(name "")
 		(pos 41.989 10.502)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -171,7 +171,7 @@
 		(name "")
 		(pos 25.989 21.002)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -194,7 +194,7 @@
 		(name "")
 		(pos 41.989 21.002)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -213,7 +213,7 @@
 		(name "")
 		(pos 41.989 31.502)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -231,7 +231,7 @@
 		(name "")
 		(pos 68.9892 10.5022)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -259,7 +259,7 @@
 		(name "")
 		(pos 68.9892 21.0022)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -321,7 +321,7 @@
 		(name "")
 		(pos 110.989 31.502)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -330,7 +330,7 @@
 		(name "")
 		(pos 41.989 42.0022)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -368,7 +368,7 @@
 		(name "")
 		(pos 110.989 42.002)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -426,7 +426,7 @@
 		(name "")
 		(pos 110.989 21.002)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -435,7 +435,7 @@
 		(name "")
 		(pos 145.489 21.0022)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -453,7 +453,7 @@
 		(name "")
 		(pos 145.489 10.502)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -481,7 +481,7 @@
 		(name "")
 		(pos 145.489 42.002)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
@@ -541,7 +541,7 @@
 		(name "")
 		(pos 17.989 42.002)
 		(font
-			(face "NimbusSanL")
+			(face "LiberationSans")
 			(color 0 0 255 1)
 		)
 		(comment "Sheet id")
