@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Default image version
-IMAGE="ghcr.io/inti-cmnb/kicad8_auto_full:dev"
+IMAGE="ghcr.io/inti-cmnb/kicad10_auto_full:dev"
 
 # Parse the optional -v flag
 while getopts "v:" opt; do
@@ -9,6 +9,14 @@ while getopts "v:" opt; do
         v)
             if [ "$OPTARG" = "9" ]; then
                 IMAGE="ghcr.io/inti-cmnb/kicad9_auto_full:dev"
+            elif [ "$OPTARG" = "8" ]; then
+                IMAGE="ghcr.io/inti-cmnb/kicad8_auto_full:dev"
+            elif [ "$OPTARG" = "10" ]; then
+                IMAGE="ghcr.io/inti-cmnb/kicad10_auto_full:dev"
+            elif [ "$OPTARG" = "11" ]; then
+                IMAGE="ghcr.io/inti-cmnb/kicad11_auto_full:dev"
+            elif [ "$OPTARG" = "12" ]; then
+                IMAGE="ghcr.io/inti-cmnb/kicad12_auto_full:dev"
             else
                 echo "Unsupported version: $OPTARG" >&2
                 exit 1

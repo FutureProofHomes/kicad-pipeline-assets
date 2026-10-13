@@ -4,7 +4,7 @@ set DISPLAY=host.docker.internal:0.0
 set USER_NAME=%USERNAME%
 
 REM Set default image
-set "IMAGE=ghcr.io/inti-cmnb/kicad8_auto_full:dev"
+set "IMAGE=ghcr.io/inti-cmnb/kicad10_auto_full:dev"
 
 REM Check for optional -v flag and version number
 if /I "%~1"=="-v" (
@@ -12,6 +12,12 @@ if /I "%~1"=="-v" (
         set "IMAGE=ghcr.io/inti-cmnb/kicad9_auto_full:dev"
     ) else if "%~2"=="10" (
         set "IMAGE=ghcr.io/inti-cmnb/kicad10_auto_full:dev"
+    ) else if "%~2"=="8" (
+        set "IMAGE=ghcr.io/inti-cmnb/kicad8_auto_full:dev"
+    ) else if "%~2"=="11" (
+        set "IMAGE=ghcr.io/inti-cmnb/kicad11_auto_full:dev"
+    ) else if "%~2"=="12" (
+        set "IMAGE=ghcr.io/inti-cmnb/kicad12_auto_full:dev"
     ) else (
         echo Unsupported version: %~2
         goto :eof
